@@ -1,0 +1,14 @@
+ClassId,SignName
+0,Speed limit (20km/h)
+1,Speed limit (30km/h)
+2,Speed limit (50km/h)
+3,Speed limit (80km/h)
+4,Speed limit (120km/h)
+5,Yield
+6,Stop
+7,General Caution
+8,Traffic Signals
+9,Turn Right Ahead
+10,Turn left ahead
+11,Ahead Only
+12,Roundabout Mandatory
